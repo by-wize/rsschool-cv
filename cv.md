@@ -1,6 +1,6 @@
 # MY RESUME
 
-1. Roman Degtyarev
+1. **Roman Degtyarev**
 2. Contacts:
     - Email: **wizzze@yandex.ru**
     - Phone number: *8029-718-13-98*
